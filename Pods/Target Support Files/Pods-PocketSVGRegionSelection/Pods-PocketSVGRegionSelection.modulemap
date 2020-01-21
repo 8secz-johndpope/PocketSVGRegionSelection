@@ -1,0 +1,6 @@
+framework module Pods_PocketSVGRegionSelection {
+  umbrella header "Pods-PocketSVGRegionSelection-umbrella.h"
+
+  export *
+  module * { export * }
+}
